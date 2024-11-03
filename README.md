@@ -19,10 +19,6 @@ Welcome to my cat-themed carousel project! 🎉 This project features a rotating
 - **3D Rotation**: Smooth auto-rotating carousel with multiple cat pictures.
 - **Personal Touch**: Customized with personal images of cats to add charm! 🐾
 
-## 🖼️ Screenshots
-
-![Project Overview Screenshot]()
-
 ## Credit
 
 This project was inspired by an incredible tutorial by [Brian Design on YouTube](https://www.youtube.com/watch?v=yqaLSlPOUxM). Thanks for the guidance! 🙌
