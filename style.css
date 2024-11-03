@@ -23,16 +23,16 @@ body {
   top: 10%;
   left: calc(50% - 100px);
   transform-style: preserve-3d;
-  transform: perspective(1000px);
+  transform: perspective(2000px);
   animation: autoRun 20s linear infinite;
   z-index: 2;
 }
 @keyframes autoRun {
   from {
-    transform: perspective(1000px) rotateX(-16deg) rotateY(0deg);
+    transform: perspective(2000px) rotateX(-16deg) rotateY(0deg);
   }
   to {
-    transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);
+    transform: perspective(2000px) rotateX(-16deg) rotateY(360deg);
   }
 }
 
